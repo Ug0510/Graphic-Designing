@@ -1,4 +1,4 @@
 # Graphic-Designing
-Here are some graphhic designing project made by me.
+Here are some graphic designing project made by me.
 
 more to come soon...
