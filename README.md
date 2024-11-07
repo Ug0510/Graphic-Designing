@@ -33,19 +33,6 @@ I’m an aspiring **Software Development Engineer** with a strong foundation in 
 
 [![Udit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ug0510&show_icons=true&count_private=true&theme=radical)](https://github.com/Ug0510)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ug0510&layout=compact&theme=radical)](https://github.com/Ug0510)
-
-[![Udit's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ug0510&theme=radical)](https://github.com/Ug0510)
-
-[![Udit's GitHub PRs](https://github-readme-stats.vercel.app/api?username=Ug0510&show_icons=true&count_private=true&include_all_commits=true&hide=prs&theme=radical)](https://github.com/Ug0510)
-
-
-[![Udit's GitHub Repos](https://github-readme-stats.vercel.app/api/repos?username=Ug0510&count_private=true&theme=radical)](https://github.com/Ug0510)
-
-
-[![Udit's Stars](https://img.shields.io/github/stars/Ug0510?style=social)](https://github.com/Ug0510)
-
-
 ---
 
 ### 💬 **Let’s Connect**
