@@ -36,6 +36,9 @@ I’m an aspiring **Software Development Engineer** with a strong foundation in 
 [![Udit's GitHub PRs](https://github-readme-stats.vercel.app/api?username=Ug0510&show_icons=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/Ug0510)
 
 
+[![Udit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ug0510&show_icons=true&count_private=true&theme=radical)](https://github.com/Ug0510)
+
+
 ---
 
 ### 💬 **Let’s Connect**
