@@ -33,6 +33,11 @@ I’m an aspiring **Software Development Engineer** with a strong foundation in 
 
 [![Udit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ug0510&show_icons=true&count_private=true&theme=radical)](https://github.com/Ug0510)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sitevity&show_icons=true&locale=en&layout=compact" alt="sitevity" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sitevity&show_icons=true&locale=en" alt="sitevity" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sitevity&" alt="sitevity" /></p>
 ---
 
 ### 💬 **Let’s Connect**
@@ -40,6 +45,14 @@ I’m an aspiring **Software Development Engineer** with a strong foundation in 
 - 📧 Email: [uditgg0510@gmail.com](mailto:uditgg0510@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/udit-gupta-ug0510](https://linkedin.com/in/udit-gupta-ug0510)
 - 🌐 GitHub: [github.com/Ug0510](https://github.com/Ug0510)
+
+<p align="left">
+<a href="https://www.linkedin.com/in/udit-gupta-ug0510" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepakcodes" height="30" width="40" /></a>
+<a href="https://instagram.com/depaaak.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="depaaak.io" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/deepakcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deepakcodes" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/deepakcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deepakcodes" height="30" width="40" /></a>
+</p>
+
 
 ---
 
