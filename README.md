@@ -31,13 +31,9 @@ I’m an aspiring **Software Development Engineer** with a strong foundation in 
 
 ### 📈 **GitHub Stats & Contributions**
 
-[![Udit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ug0510&show_icons=true&count_private=true&theme=radical&hide=prs)](https://github.com/Ug0510)
-
-[![Udit's GitHub PRs](https://github-readme-stats.vercel.app/api?username=Ug0510&show_icons=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/Ug0510)
-
-
 [![Udit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ug0510&show_icons=true&count_private=true&theme=radical)](https://github.com/Ug0510)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ug0510&layout=compact&theme=radical)](https://github.com/Ug0510)
 
 ---
 
